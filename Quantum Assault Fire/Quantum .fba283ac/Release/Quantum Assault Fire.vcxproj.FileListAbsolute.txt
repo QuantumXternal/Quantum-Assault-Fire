@@ -1,0 +1,5 @@
+C:\Users\dell i5 10thgen\source\repos\Quantum Assault Fire\Quantum Assault Fire\Release\D3DCompiler_43.dll
+C:\Users\dell i5 10thgen\source\repos\Quantum Assault Fire\Quantum Assault Fire\Release\d3dx9_43.dll
+C:\Users\dell i5 10thgen\source\repos\Quantum Assault Fire\Quantum Assault Fire\Release\d3dx10_43.dll
+C:\Users\dell i5 10thgen\source\repos\Quantum Assault Fire\Quantum Assault Fire\Release\d3dx11_43.dll
+C:\Users\dell i5 10thgen\source\repos\Quantum Assault Fire\Quantum Assault Fire\Quantum .fba283ac\Release\Quantum .76E14ED6.Up2Date
